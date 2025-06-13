@@ -8,6 +8,10 @@
     font-family: sans-serif;
 }
 
+body {
+    color: white;
+}
+
 .btn {
         background: rgb(183, 0, 0);
         color: rgb(148, 157, 255);
