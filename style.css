@@ -1,0 +1,25 @@
+#conteudo {
+    background: #4f9d43;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn {
+        background: rgb(83, 197, 83);
+        color: white;
+        border: none;
+        padding: 10px;
+        width: 80px;
+        border-radius: 5px;
+    }
+
+.condeudo-rolavel {
+        overflow-y: scroll;
+        height: 100%;
+    }
