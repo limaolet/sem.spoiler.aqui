@@ -9,12 +9,12 @@ body {
     left: 0;
     padding: 10px;
     text-align: center;
-    font-family: sans-serif;
+    font-family: times new roman;
 }
 
 .btn {
         background: rgb(183, 0, 0);
-        color: rgb(148, 157, 255);
+        color: white;
         border: none;
         padding: 10px;
         width: 80px;
