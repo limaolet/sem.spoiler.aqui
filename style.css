@@ -27,3 +27,13 @@ html, body {
     padding: 0;
 }
 
+  .responsive-img { 
+      width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto; 
+  } 
+
+@media (max-width: 600px) { 
+    .responsive-img { 
+        max-width: 100%; height: auto; 
+    } 
+}
+
