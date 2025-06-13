@@ -23,7 +23,3 @@ html, body {
     padding: 0;
 }
 
-.condeudo-rolavel {
-    overflow-y: auto;
-    height: 100vh;
-}
